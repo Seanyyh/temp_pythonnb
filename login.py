@@ -20,3 +20,6 @@ def func3():
 
 def func4():
 	return '我没动你的函数'
+
+
+a = 2
